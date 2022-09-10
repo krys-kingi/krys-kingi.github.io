@@ -1,5 +1,7 @@
-README. 
+Kia Ora Team, 
 
-Kia Ora, this project is apart of the foundations course. 
+This is going to be my personal blog. 
 
-My blog.
+It will contain thoughts, knowledge and learning. 
+
+Content will be added as we progress. 
