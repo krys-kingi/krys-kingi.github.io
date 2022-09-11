@@ -31,6 +31,13 @@ body{
   padding-top: 35vh;
 }
 
+
+.instalogo{
+  width: 80px;
+  
+
+}
+
 h1{
   color: white;
   font-size: 80px;
@@ -38,6 +45,15 @@ h1{
   border-width: 5px;
   /* padding-left: 40px; */
   text-align: center;
+
+}
+
+p{
+color: black;
+font-size: 16px;
+text-align: left;
+padding-top: 10px 0px;
+margin-bottom: 20px;
 
 }
 
@@ -49,6 +65,16 @@ h6{
   text-align: center;
   padding: 4px 0px;
   margin-bottom: 20px;
+}
+
+.blogquestion{
+  font-weight: bold;
+}
+
+.quotestyle{
+  font-style: italic;
+
+
 }
 
 .navbar{
@@ -64,6 +90,14 @@ align-items: center;
 transition: 0.8s;
 
 }
+
+.text{
+border-color: red;
+border-width: 50px;
+
+
+}
+
 
 .change{
   right: 0px;
