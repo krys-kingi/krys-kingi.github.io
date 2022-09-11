@@ -32,9 +32,25 @@ body{
 }
 
 
-.instalogo{
-  width: 80px;
+.instalogocontainer{
+  display: flex; 
+  align-items: center; 
+  justify-content: center;
+  border: 5px solid #fff;
   
+  
+}
+
+.instalogocontainer h1{
+border: none;
+}
+
+.instalogocontainer img{
+  width: 80px;
+}
+
+.instalogocontainer a{
+  margin-right: 15px;
 
 }
 
@@ -90,6 +106,7 @@ align-items: center;
 transition: 0.8s;
 
 }
+
 
 
 
