@@ -219,14 +219,16 @@ transition: 0.8s;
 
   }
 
-  @media (orientation: landscape){
-    .title {
-      color: blue;
+  @media screen and (min-width: 400px){
+    #welcome{
+      color: #8eb5f5;
     }
+    .core-blogs li{
+      width: 30%;
     }
+  }
 
-
-  @media screen and (min-width: 280px){
+  @media screen and (min-width: 375px){
     .core-blogs li{
       width: 30%;
   
