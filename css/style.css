@@ -24,9 +24,15 @@ body{
   overflow: scroll;
 }
 
+.imagesdiv{
+  padding-left: 0px;
+  content: normal;
+}
+
 .aboutcontainer, .textcontainer, .blogcontainer{
   padding: 150px 25px 0;
 }
+
 
 .textcontainer{
   padding-top: 35vh;
